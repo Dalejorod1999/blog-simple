@@ -1,0 +1,22 @@
+{
+  "name": "blog-simple",
+  "version": "0.1.0",
+  "description": "Blog Simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learnFE/blog-simple.git"
+  },
+  "author": "Esteban Borai (https://github.com/EstebanBorai)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learnFE/blog-simple/issues"
+  },
+  "homepage": "https://github.com/learnFE/blog-simple#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  }
+}
