@@ -7,3 +7,22 @@ body {
 	background: #eeeeee;
 	color: #333333;
 }
+
+aside {
+	width: 25%;
+}
+
+#avatar {
+	height: 90px;
+	margin: 10px;
+}
+
+.subtitle-aside {
+	font-size: 24px;
+	margin: 0 5px;
+}
+
+.paragraph-aside {
+	box-sizing: border-box;
+	padding: 0.5rem;
+}
