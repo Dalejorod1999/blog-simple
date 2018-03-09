@@ -1,0 +1,13 @@
+{
+	"01": {
+		"title": "The post",
+		"body": "Lorem Ipsum",
+		"img": "undefined",
+		"date": "2018,19,11",
+		"tags": ["0", "1", "2"],
+		"user": {
+			"id": "001",
+			"username": "Davidrod1999"
+		}
+	}
+}
