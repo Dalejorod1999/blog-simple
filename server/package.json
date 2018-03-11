@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "description": "blog-simple server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learnFE/blog-simple.git"
+  },
+  "keywords": [
+    "express",
+    "javascript"
+  ],
+  "author": "Esteban Borai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learnFE/blog-simple/issues"
+  },
+  "homepage": "https://github.com/learnFE/blog-simple#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  }
+}

@@ -12,3 +12,11 @@ avatar.setAttribute('src', user.avatar);
 
 let bio = document.getElementById('bio');
 bio.innerText = user.bio;
+
+function getPosts() {
+	fetch('/posts')
+		.then(res => (console.log(res)))
+		.catch(err => console.error(err));
+};
+
+getPosts();

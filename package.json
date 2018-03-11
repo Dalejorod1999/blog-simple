@@ -18,5 +18,9 @@
   "homepage": "https://github.com/learnFE/blog-simple#readme",
   "devDependencies": {
     "eslint": "^4.18.2"
-  }
+  },
+  "keywords": [
+    "express",
+    "javascript"
+  ]
 }
