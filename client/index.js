@@ -50,7 +50,7 @@ function renderSocialNetworks() {
 		socialNetwors.appendChild(listItem);
 	}
 }
-
+// Llama a la funcion que renderiza las redes sociales
 renderSocialNetworks();
 
 function getPosts() {
